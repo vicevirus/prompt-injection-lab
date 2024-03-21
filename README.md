@@ -8,7 +8,8 @@ The prompt-injection-lab project aims to provide a hands-on learning experience 
 
 In this project, we are testing out few ways to secure prompt injection.
 
-[Rebuff - LLM Prompt Injection Detector](https://github.com/protectai/rebuff)
+[Rebuff - LLM Prompt Injection Detector](https://github.com/protectai/rebuff) 
+
 [Guardrails AI - Adding guardrails to LLM](https://github.com/guardrails-ai/guardrails)
 
 
