@@ -6,6 +6,12 @@ Welcome to prompt-injection-lab, a project focused on prompt injection lab.
 
 The prompt-injection-lab project aims to provide a hands-on learning experience for prompt injection techniques. Prompt injection is a security vulnerability that occurs when an application fails to properly sanitize user input before using it in a command prompt or shell. This can lead to various security risks, such as command injection, remote code execution, or privilege escalation.
 
+In this project, we are testing out few ways to secure prompt injection.
+
+[Rebuff - LLM Prompt Injection Detector](https://github.com/protectai/rebuff)
+[Guardrails AI - Adding guardrails to LLM](https://github.com/guardrails-ai/guardrails)
+
+
 ## Getting Started
 
 To get started with prompt-injection-lab, please follow the instructions below:
