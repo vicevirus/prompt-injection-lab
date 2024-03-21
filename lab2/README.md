@@ -19,7 +19,7 @@ You might have some trouble setting up Pinecone with Rebuff. Refer to this
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/vicevirus/
+    git clone https://github.com/vicevirus/prompt-injection-lab
     ```
 
 2. Change into the project directory:

@@ -13,7 +13,7 @@ This is a Flask application that demonstrates prompt injection vulnerabilities.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/vicevirus/
+    git clone https://github.com/vicevirus/prompt-injection-lab
     ```
 
 2. Change into the project directory:
