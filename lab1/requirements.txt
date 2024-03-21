@@ -1,0 +1,4 @@
+markdown
+flask
+google-generativeai
+rebuff
