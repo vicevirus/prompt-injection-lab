@@ -44,7 +44,7 @@ You might have some trouble setting up Pinecone with Rebuff. Refer to this
     python app.py
     ```
 
-2. Open your web browser and navigate to `http://localhost:2000`.
+2. Open your web browser and navigate to `http://localhost:5000`.
 
 3. Exploit it!
 
