@@ -1,8 +1,8 @@
-# LLM Prompt Injection Lab 3
+# LLM Prompt Injection Lab 4
 
 This is a Flask application that demonstrates prompt injection vulnerabilities. But this time with [GuardRails AI](https://github.com/guardrails-ai/guardrails) in place!
 
-OpenAI ver.
+Gemnini Pro ver.
 
 
 ## Requirements
@@ -12,6 +12,7 @@ OpenAI ver.
 - openai
 - guardrails-ai
 - litellm
+- google-cloud-aiplatform
 
 
 

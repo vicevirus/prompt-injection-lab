@@ -1,0 +1,11 @@
+markdown
+flask
+openai
+guardrails-ai
+litellm
+google-cloud-aiplatform
+
+
+# run gcloud auth application-default login See Google Cloud Docs
+# Alternatively you can set application_default_credentials.json
+# https://hub.guardrailsai.com/validator/guardrails/regex_matcher Install this guardrails hub to validate regex

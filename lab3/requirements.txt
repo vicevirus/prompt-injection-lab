@@ -1,0 +1,7 @@
+markdown
+flask
+openai
+guardrails-ai
+litellm
+
+# https://hub.guardrailsai.com/validator/guardrails/regex_matcher Install this guardrails hub to validate regex

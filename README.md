@@ -8,9 +8,15 @@ The prompt-injection-lab project aims to provide a hands-on learning experience 
 
 In this project, we are exploring different techniques to enhance the security of a web application against prompt injection. Initially, the web app is vulnerable to Server-Side Template Injection (SSTI) in the response output.
 
-[Rebuff - LLM Prompt Injection Detector](https://github.com/protectai/rebuff) (Lab 2)
 
-[Guardrails AI - Adding guardrails to LLM](https://github.com/guardrails-ai/guardrails) (Lab 3)
+
+## Labs
+
+- Lab 1: Vulnerable LLM App
+- Lab 2: Vulnerable LLM App with [Rebuff - LLM Prompt Injection Detector](https://github.com/protectai/rebuff)
+- Lab 3: Vulnerable LLM App with [Guardrails AI - Adding guardrails to LLM](https://github.com/guardrails-ai/guardrails) (OpenAI)
+- Lab 4: Vulnerable LLM App with [Guardrails AI - Adding guardrails to LLM](https://github.com/guardrails-ai/guardrails) (Google Gemini)
+
 
 
 ## Getting Started
