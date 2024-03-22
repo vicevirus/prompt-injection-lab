@@ -11,7 +11,7 @@ In this project, we are exploring different techniques to enhance the security o
 
 
 ## Labs
-By default this lab uses Google Gemini. Why? cuz it's free
+By default this lab uses Google Gemini. Why? cuz it's free 😂
 - Lab 1: Vulnerable LLM App
 - Lab 2: Vulnerable LLM App with [Rebuff - LLM Prompt Injection Detector](https://github.com/protectai/rebuff)
 - Lab 3: Vulnerable LLM App with [Guardrails AI - Adding guardrails to LLM](https://github.com/guardrails-ai/guardrails) (OpenAI)
