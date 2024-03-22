@@ -6,7 +6,7 @@ import litellm
 from guardrails.hub import RegexMatch
 
 # For gemini pro we have to use litellm as a workaround because guardrails doesnt directly support gemini pro yet
-litellm.vertex_project="peppy-caster-383316" # Set the Google Cloud project id
+litellm.vertex_project="" # Set the Google Cloud project id
 
 app = Flask(__name__)
 app.secret_key = "flag{gu4rdr41ls_w1th_g3m1n1_pr0_1s_4w3s0m3}"
