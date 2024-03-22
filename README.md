@@ -21,9 +21,9 @@ By default this lab uses Google Gemini. Why? cuz it's free 😂
 
 ## Deployment Notes
 
-Please note that for the Rebuff and Guardrails-AI labs, some dependencies and documentation may be outdated. However, I have made every effort to ensure that they still work.
+Please note that for the `Rebuff` and `Guardrails-AI` labs, some dependencies and official documentation may be outdated. However, I have made every effort to ensure that they still work.
 
-To ensure a smooth experience, please refer to the README.md and requirements.txt files for each lab. They contain important information and instructions to help you get started.
+To ensure a smooth experience, please refer to the `README.md` and `requirements.txt` files for each lab. They contain important information and instructions to help you get started.
 
 If you encounter any issues or have any questions, please don't hesitate to reach out for assistance.
 
@@ -33,7 +33,7 @@ If you encounter any issues or have any questions, please don't hesitate to reac
 
 To get started with prompt-injection-lab, please follow the instructions below:
 
-1. Check out each lab folders README.md
+1. Check out each lab folders `README.md`
 2. Enjoy!
 
 ## Contributing
